@@ -65,15 +65,15 @@ export function Footer() {
             <div className="space-y-2 text-sm text-amber-200">
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
-                <span>+91 98765 43210</span>
+                <span>+91 9488345831</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span>info@kirukkudubby.com</span>
+                <span>xyndrixinfo@gmail.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
-                <span>Coastal Area, Tamil Nadu</span>
+                <span>Coimbatore, Tamil Nadu</span>
               </div>
             </div>
           </div>
