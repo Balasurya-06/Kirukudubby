@@ -44,7 +44,7 @@ export function AboutSection() {
               <p className="text-amber-700 text-sm">{feature.description}</p>
             </div>
           ))}
-        </div>
+        </div> 
       </div>
     </section>
   )
