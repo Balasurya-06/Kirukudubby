@@ -80,7 +80,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-amber-800 mt-8 pt-8 text-center text-sm text-amber-200">
-          <p>&copy; 2024 Kirukku Dubby Dryfish. All rights reserved.</p>
+          <p>&copy; 2025 Kirukku Dubby Dryfish. All rights reserved.</p>
         </div>
       </div>
     </footer>
